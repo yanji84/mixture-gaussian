@@ -1,1 +1,3 @@
-# mixture-gaussian
+# mixture gaussian
+
+Mixture gaussian model for classification
